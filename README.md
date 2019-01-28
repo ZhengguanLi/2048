@@ -4,7 +4,7 @@ However, one can continue to play the game after reaching the goal, creating til
 
 ### Preview
 
-![2048.jpg](2048.jpg "2048 game image")
+<img src="2048.jpg" alt="drawing" width="500"/>
 
 ## Requirements
 1. no requirements if you run the executable directly
